@@ -1,0 +1,39 @@
+{
+    "posts": [
+      {
+        "caption": "sssss",
+        "id": "2",
+        "image_url": "https://i.ibb.co/9Z4mYww/5.png"
+      },
+      {
+        "caption": "aaaa",
+        "id": "q",
+        "image_url": "https://i.ibb.co/bgKfTwZ/8.png"
+      },
+      {
+        "caption": "sssss",
+        "id": "aaa",
+        "image_url": "https://i.ibb.co/g3BSpsV/2.png"
+      },
+      {
+        "caption": "abcd",
+        "id": "12",
+        "image_url": "https://i.ibb.co/6mPb6Gm/sw1.png"
+      },
+      {
+        "caption": "sss",
+        "id": "11",
+        "image_url": "https://i.ibb.co/CHGfbWs/1.png"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
